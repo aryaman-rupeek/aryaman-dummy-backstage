@@ -1,0 +1,15 @@
+
+   
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: aryaman
+  description: Everything related to members in Aryaman's Dummy Backstage
+  links:
+    - url: http://example.com/domain/artists/
+      title: Domain Readme
+    - url: http://example.com/domains/artists/dashboard
+      title: Domain Metrics Dashboard
+      icon: dashboard
+spec:
+  owner: platform-team
