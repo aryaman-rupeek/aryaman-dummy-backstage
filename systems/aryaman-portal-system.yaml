@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: aryaman-portal
+  description: Everything related to members in Aryaman's Dummy Backstage
+  tags:
+    - portal
+spec:
+  owner: platform-team
+  domain: aryaman
