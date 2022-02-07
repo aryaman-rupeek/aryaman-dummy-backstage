@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: aryaman-dummy-apis
+  description: A collection of all APIs in Aryaman's Dummy Backstage
+spec:
+  targets:
+    - ./apis/hello-world-api.yaml
+    - ./apis/petstore-api.yaml
+    - ./apis/spotify-api.yaml
