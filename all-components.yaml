@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: aryaman-dummy-components
+  description: A collection of all components in Aryaman's Dummy Backstage.
+spec:
+  targets:
+    - ./components/artist-lookup-component.yaml
+    - ./components/petstore-component.yaml
+    - ./components/playback-order-component.yaml
+    - ./components/podcast-api-component.yaml
+    
