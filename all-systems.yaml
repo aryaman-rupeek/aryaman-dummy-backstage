@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: aryaman-dummy-systems
+  description: A collection of all systems in Aryaman's Dummy Backstage
+spec:
+  targets:
+    - ./systems/artist-engagement-portal-system.yaml
+    - ./systems/audio-playback-system.yaml
+    - ./systems/podcast-system.yaml
