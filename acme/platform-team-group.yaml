@@ -31,7 +31,7 @@ spec:
   profile:
     displayName: Manik Dham
     email: manik.dham@rupeek.com
-    picture: https://avatars.dicebear.com/api/avataaars/nigel-manning@example.com.svg?background=%23fff
+    picture: https://media-exp1.licdn.com/dms/image/C5103AQEMy4SQPb_5Cw/profile-displayphoto-shrink_200_200/0/1567361767249?e=1649894400&v=beta&t=cTUqaXrcw6mrPD1Wxj1-sIA-aiBoC2Yzb9PG1iVqk0U
   memberOf: [platform-team]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -42,7 +42,7 @@ spec:
   profile:
     displayName: Tejas Deshmukh
     email: tejas.deshmukh@rupeek.com
-    picture: https://avatars.dicebear.com/api/avataaars/nigel-manning@example.com.svg?background=%23fff
+    picture: https://cdn.vox-cdn.com/thumbor/TjSv6GUYVKeXAnmb1ltpvmh600E=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23024343/CBP_e001_0239_0003.jpg
   memberOf: [platform-team]
 ---
 # This user is added as an example, to make it more easy for the "Guest"
