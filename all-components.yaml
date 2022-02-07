@@ -9,4 +9,3 @@ spec:
     - ./components/petstore-component.yaml
     - ./components/playback-order-component.yaml
     - ./components/podcast-api-component.yaml
-    
