@@ -14,7 +14,7 @@ spec:
     displayName: ACME Corp for Aryaman's Dummy Backstage
     email: info@example.com
     picture: https://avatars.dicebear.com/api/identicon/info@example.com.svg?background=%23fff&margin=25
-  children: [infrastructure]
+  children: [platform-team]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Location
@@ -23,4 +23,4 @@ metadata:
   description: A collection of all Groups in Aryaman's Dummy Backstage
 spec:
   targets:
-    - ./platform-team.yaml
+    - ./platform-team-group.yaml
