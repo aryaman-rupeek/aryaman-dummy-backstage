@@ -4,7 +4,7 @@ metadata:
   name: aryaman-component-1
   description: 1st Dummy Component
   annotations:
-    github.com/project-slug: 'aryaman-rupeek/aryaman-dummy-backstage'
+    github.com/project-slug: 'aryaman-dummy-backstage/aryaman-rupeek'
     circleci.com/project-slug: 'github/aryaman-rupeek/aryaman-dummy-backstage'
   tags:
     - java
