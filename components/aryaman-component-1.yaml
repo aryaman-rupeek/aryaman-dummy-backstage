@@ -3,6 +3,9 @@ kind: Component
 metadata:
   name: aryaman-component-1
   description: 1st Dummy Component
+  annotations:
+    github.com/project-slug: 'backstage/backstage'
+    circleci.com/project-slug: 'github/Rupeek/aryaman-dummy-backstage'
   tags:
     - java
     - data
